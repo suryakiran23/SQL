@@ -17,3 +17,4 @@
 --select *from  student1 where age=18 or age=19;--(or,and not)
 --select *from student1 order by age;
 --select *from student1 order by age desc;
+--select *from student1 order by names asc,age desc;
